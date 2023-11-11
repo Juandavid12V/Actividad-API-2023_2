@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingresa el texto que deseas analizar"
+        android:inputType="textMultiLine"/>
+
+    <Button
+        android:id="@+id/analyzeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/inputText"
+        android:layout_marginTop="16dp"
+        android:text="Analizar Sentimientos"
+        android:minHeight="48dp" />
+
+    <TextView
+        android:id="@+id/resultView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/analyzeButton"
+        android:layout_marginTop="16dp"
+        android:text="Resultado de analisis"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/backToSecondButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/resultView"
+        android:layout_marginTop="16dp"
+        android:text="Volver"
+        android:minHeight="48dp" />
+
+</RelativeLayout>

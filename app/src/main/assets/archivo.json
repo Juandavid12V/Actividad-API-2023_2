@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mystic-torus-404718",
+  "private_key_id": "90a51256767015cbd0cd857cb19d48f7f59fb75e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDwi/bCIBV768Dp\naY2zBX/rIGf3lYB+hjSMmoflFWzxg/DRJhiX5LFjk1P+Ied4HFgBX+Q0sxEmNx4h\n6Qtc2PTutM9AuGpkFfB0pn+NLjslms0HYL0DdIS6pO55p+aQoHxQnGumiPLJUHyc\nJQrYNhcluJ+jDLb5A2xnA+4gvSCh2AaVhjqgKI5Fa79c1Ng4hgaakcsMQo+bMkY1\nrlAsm1qN4z2UjEtxokavi0ePPeD4NkiP61op64c7tqQOlJNBUieByS97Y8ctD6pB\nfcxHxL5N4pEnhM9FEuuHouRKBhD7ueqg/ohdTBZQYtpV7WC+pZ4s8IjUi/2q9zEF\nEJ+w5ihdAgMBAAECggEAK0g/8QulWfwgZM9jmgYAD55v3qZ1ra53x6HpmGCLzwQ6\n4WM9sx0JBx4EE7rlg6Dz++FVdl8PE6WAxEDC1OTL46TAkwhrylEBSHgKBOz/4wMQ\n58YyFGxTkqLpLxY1QCpEXBvdKeTD7NHQ7iajJibLcPPgs42u4a0KRRn5r8XgGIal\nTCyE0nD+uzijYJgCADCrs6ztQDYILGT0YEfHgtkeqdKvxZkOL9JXHra8grksCVcs\nNjn41X8LV2m8oz9aFLd/MOVvw3PDDYOgJqtADJ1m5576XzuIXciaNypmaWOjQatc\n40yRM8MolMycJu2pE78tknvq1JGqDyYSET76p2EyIQKBgQD9VO9flyR9EbAKWoIm\nLuryojyg2Il39qzSjA44XxlEBAr9XUsmqQTwirIdMcMDb0ghIGnXAGmqFH5043F3\nIceaUWB8/PyzguSR7An/g044M9u9SRYAod7CYXIFnoqVSM187dmDXcL4S4CFN1sJ\nX85h/9pCAZ+3hwWH29rZhX6F4QKBgQDzFI5jnSnLQuOZ2IpxS+V9EUd2aLsN2noG\n45zUjOd8ZMpZd+GJJdgTzhGqBt4CzcglRE+/iTnFb9W/kqWO/u1K0jA6bDh9I19J\nJr3k21AdTNWIGs7hBLCBZuoO6CL/tg7UtM/PnRUFHpxaofnVj/7ip6KyFBEd+iEZ\n+2tBvyT5/QKBgQCEXpEFXbBPOaLGhixjTzist2D+mqaZ7Ga5TT1Q70AAbixf3xOZ\ni89s8MvIvWusq8UAqjMjiK+tky/QW9e57Aij9cl5Baf1FHviU3eV70I7070J1tqM\nUghXgRtXHFRFVNkqYg25upBZtPneoeILr+fjBRFCVB7kgsS9DH/6EOrfgQKBgD+a\nVVeDO/hPXDZZDoBul3GOH+C/rpIFZICA9fw3kipeRQP79itol403EjAm89hP99qo\ncSVwxoj+pjMmL+OmmHhHXw8qWe2EX95IIM/NAr1n6UdfnFoMXBK/1uZnnyDBhkfp\nt6ZfN6zLQaYFU9Wpg8vSiSOHVKM/W4Hs4zekyAwRAoGAScLz8eeQPwcJAKeEoBsE\nIpwq9h7AhJmVz07O6dVXzEKmJaLcqpHfH84vm2dnBGBy/lRxNUfBCESm1wwXjMji\nv9XaZy+ppae44UjCgz1AlP2c8DGzR4t1od71DUjPUU/pz5TaaQxRevs3Wtrm5+W6\nZT5LOo8ZJhizUH9B7252dnA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-prueba@mystic-torus-404718.iam.gserviceaccount.com",
+  "client_id": "108726547593284604064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-prueba%40mystic-torus-404718.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
